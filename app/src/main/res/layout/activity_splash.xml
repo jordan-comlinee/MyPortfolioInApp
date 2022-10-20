@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".SplashActivity">
 
-
+    <!--dependency에 추가한 태그 사용...gif 입력시 추천해줌-->
     <pl.droidsonroids.gif.GifImageView
         android:id="@+id/splash"
         android:layout_width="wrap_content"
