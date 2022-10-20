@@ -6,5 +6,6 @@
   <br><br><br><br>
   <h3>Splash 이미지</h3>
   <hr>
+  <img width= 80% src="https://github.com/jordan-comlinee/MyPortfolioInApp/issues/1#issue-1416645264">
   
  </div>
